@@ -1,0 +1,10 @@
+a=56
+b=True
+c='nasar'
+d=5.6
+e=(3+4j)
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
+print(type(e))
